@@ -39,3 +39,10 @@ body {
   font-weight: bold;
   color: white;
 }
+
+.copyright {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
