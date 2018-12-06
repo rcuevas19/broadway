@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.first--header {
+  text-size: 72px;
+  font-weight: bold;
+}
